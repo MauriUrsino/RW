@@ -1,0 +1,28 @@
+{
+  "name": "blackBird",
+  "version": "1.0.0",
+  "description": "Implement a promise library from scratch",
+  "main": "src/pledge.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Plataforma5la/12-BlackBird"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-jasmine-livereload-task": "^0.11.0",
+    "jasmine-core": "^2.5.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
