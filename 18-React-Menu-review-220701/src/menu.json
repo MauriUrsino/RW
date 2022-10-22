@@ -1,0 +1,51 @@
+{
+  "food": [
+    {
+      "name": "Avocado Toast",
+      "description": "A toast with mashed avocado, salt and black pepper",
+      "price": 200
+    },
+    {
+      "name": "Scrambled Eggs",
+      "description": "2 large whisked eggs with cream and a pinch of salt",
+      "price": 100
+    },
+    {
+      "name": "French toast",
+      "description": "A slice of bread toasted with milk, eggs and cinnamon, + a cover of syrup",
+      "price": 120
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Espresso",
+      "description": "Small & strong 1:2 ratio coffee",
+      "price": 100
+    },
+    {
+      "name": "Ristretto",
+      "description": "Small & really strong 1:1 ratio coffee 🇮🇹",
+      "price": 100
+    },
+    {
+      "name": "Lungo",
+      "description": "Popular large size espresso 1:3 1:6 ratio",
+      "price": 120
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Single espresso with steamed milk foam 1:1 coffe:milk ratio",
+      "price": 150
+    },
+    {
+      "name": "Latte",
+      "description": "Weak coffee, sweat and milky is a 1:4 parts coffee:milk ratio",
+      "price": 150
+    },
+    {
+      "name": "Flat white",
+      "description": "Double espresso with 1 part of not foamy milk, a strong latte",
+      "price": 170
+    }
+  ]
+}

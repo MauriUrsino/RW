@@ -1,0 +1,28 @@
+{
+  "name": "19-react-0",
+  "version": "1.0.0",
+  "description": "Worshop de reconocimiento, react basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run serve & npm run build:watch",
+    "build:watch": "webpack -w",
+    "serve": "http-server ./dist -p 3000 -c-1"
+  },
+  "author": "Plataforma 5",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "http-server": "^13.0.0",
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.4.0"
+  }
+}
